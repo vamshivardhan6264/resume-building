@@ -1,2 +1,1 @@
-# resume-building
-Resume Building App (Dynamic)
+# Resume-vamshi
